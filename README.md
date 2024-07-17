@@ -1,4 +1,4 @@
-- Hi I'm @masonserna, and am learning frontend development currently.
+#Hi I'm @masonserna, and am learning frontend development currently.
 I’ve learned the basics of HTML, CSS, Flexbox, and Grid so far. I'm now learning JavaScript.
 
 <!---
