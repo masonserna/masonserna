@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mason Serna</h1>
-<h3 align="center">Aspiring full stack developer career changing from Registered Dietitan</h3>
+<h1 align="center">Hi, I'm Mason Serna</h1>
+<h3 align="center">I'm an aspiring full stack developer career changing from working as a Registered Dietitan.</h3>
 
 - 🔭 I’m currently working on **Sprint 5 within the TripleTen coding bootcamp**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **masonaserna@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn @https://www.linkedin.com/in/mason-serna/</h3>
 <p align="left">
 </p>
 
