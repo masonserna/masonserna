@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mason Serna</h1>
 <h3 align="center">I'm an aspiring full stack developer career changing from working as a Registered Dietitan.</h3>
 
-- 🔭 I’m currently working on **Sprint 6 within the TripleTen coding bootcamp**
+- 🔭 I’m currently working on **Sprint 7 within the TripleTen coding bootcamp**
 
 - 🌱 I’m currently learning **intermediate JavaScript**
 
