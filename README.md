@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **intermediate JavaScript- think OOP and modular JavaScript**
 
-- Although I am not yet a full stack developer, I will soon be learning React, Node.js, Express.js, along with MongoDB. I'm pursuing internsip opportunities and would be thrilled to work with the contribute to your team. My primary interests and FinTech, HealthTech, and ClimateTech.
+- Although I am not yet a full stack developer, I will soon be learning React, Node.js, Express.js, along with MongoDB. I'm pursuing internsip opportunities and would be thrilled to work with and contribute to your team. My primary interests are FinTech, HealthTech, and ClimateTech.
 
 - 📫 How to reach me **masonAserna@gmail.com**
 
