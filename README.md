@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Mason Serna</h1>
-<h3 align="center">I'm an aspiring full stack developer career changing from working as a Registered Dietitan.</h3>
+<h3 align="center">I'm an junior web developer career changing from working as a Registered Dietitan.</h3>
 
 - 🔭 I’m currently working on **Sprint 7 within the TripleTen coding bootcamp**
 
-- 🌱 I’m currently learning **intermediate JavaScript**
+- 🌱 I’m currently learning **intermediate JavaScript- think OOP and modular JavaScript**
 
-- 📫 How to reach me **masonaserna@gmail.com**
+- Although I am not yet a full stack developer, I will soon be learning React, Node.js, Express.js, along with MongoDB. I'm pursuing internsip opportunities and would be thrilled to work with the contribute to your team. My primary interests and FinTech, HealthTech, and ClimateTech.
+
+- 📫 How to reach me **masonAserna@gmail.com**
 
 <h3 align="left">Connect with me on LinkedIn @https://www.linkedin.com/in/mason-serna/</h3>
 <p align="left">
