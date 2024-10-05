@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Sprint 7 within the TripleTen coding bootcamp**
 
-- 🌱 I’m currently learning **intermediate JavaScript- think OOP and modular JavaScript**
+- 🌱 I’m currently learning **OOP and modular JavaScript**
 
 - Although I am not yet a full stack developer, I will soon be learning React, Node.js, Express.js, along with MongoDB. I'm pursuing internship opportunities and would be thrilled to work with and contribute to your team. My primary interests are FinTech, HealthTech, and ClimateTech.
 
